@@ -67,19 +67,19 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+    background-image: url("img/debiloide.jpeg");
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+    background-image: url("img/lambisgóia.jpeg");
 }
 
 #gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+    background-image: url("img/d471c45f-31b7-4f38-9d21-c374061d1cfe.jpeg");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("img/Thatsbetter.jpeg");
 }
 
 #footer {
