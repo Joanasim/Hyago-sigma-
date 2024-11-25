@@ -58,12 +58,12 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    background-image: url("img/gradiente.jpeg");
     background-size: cover;
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("img/ordemparameupal.jpeg");
 }
 
 #gift-img-hot:hover {
